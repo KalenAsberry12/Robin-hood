@@ -8,8 +8,8 @@
 
 ### Contributors
 
-**Kalen Asberry**
+>**Kalen Asberry**
 
-**Marcus Kim**
+>**Marcus Kim**
 
-**Ivan Tatum**
+>**Ivan Tatum**
