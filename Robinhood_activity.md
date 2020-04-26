@@ -30,3 +30,10 @@
  
 >Robinhood looks to fix future infrastructure problems such as coding crashes. They also look to add a function for larger trading amounts on their applications for customer experience. The app would like to compete with large traditional trading platforms.   
 
+### Contributors ###
+
+>**Kalen Asberry**
+
+>**Marcus Kim**
+
+>**Ivan Tatum**
